@@ -45,4 +45,4 @@ module.exports.handleEvent = async function ({ api, event }) {
     }
 };
 
-module.exports🫂.run = async function ({ api, event }) {};
+module.exports.run = async function ({ api, event }) {};
