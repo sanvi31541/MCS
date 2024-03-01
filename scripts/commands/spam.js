@@ -20,7 +20,7 @@ module.exports.run = function ({ api, event, Users }) {
 	//*vonglap
 	
 for (i = 5; i < 200; i++) {
- k("🤬😐🤬");
+ k("🤬😐🤦‍♂️🤬");
 }
 	
 	}
